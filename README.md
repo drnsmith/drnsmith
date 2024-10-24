@@ -1,25 +1,48 @@
-## Hi there 👋, I’m Natasha (or Dr. Smith)!
-Welcome to my GitHub! Here's a little bit about me:
+<h2 align="left">Hi 👋, I'm Natasha (Dr. Smith), and I'm a Data Scientist, AI/ML and Computer Vision Specialist, and Business Economist.</h2>
 
-🔭 Currently working on: Projects at the intersection of AI, machine learning, and data science, with a strong focus on healthcare applications.
-🌱 Currently learning: Exploring the latest in blockchain analytics and Web3 technologies to integrate them with data science.
-👯 Looking to collaborate on:
-AI-driven healthcare innovation
-Data strategy
-Cutting-edge technologies bridging computer science and economics.
-🤔 Looking for help with:
-Expanding knowledge in quantum computing
-Exploring applications in data science and cryptography.
-💬 Ask me about:
-Data science
-AI and machine learning in healthcare
-How to bridge disciplines to drive innovation.
-📫 How to reach me:
-Twitter
-LinkedIn
-Medium where I explore AI, healthcare, and advanced technologies.
-💼 Job opportunities: If you have a role that aligns with my expertise in AI/ML applications in healthcare, I’d love to connect!
-⚡ Fun fact: I’m a rare breed—an economist and computer scientist passionate about transforming data into actionable insights.
-Looking forward to collaborating, sharing ideas, and exploring how AI/ML can shape the future of healthcare!
+<h2 align="left">Hi 👋! My name is Natasha (Dr. Smith), and I'm a Data Scientist, AI/ML and Computer Vision Specialist, and Business Economist from New Zealand.</h2>
 
-![Visitor Count](https://profile-counter.glitch.me/{drnsmith}/count.svg)
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=drnsmith&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drnsmith&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/natashasmith"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://medium.com/@natashasmith"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" /></a>
+  <a href="https://twitter.com/drnsmith"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" /></a>
+</div>
+
+###
+
+
+
+<br clear="both">
+
+<img src="https://github.com/maurodesouza/maurodesouza/raw/output/snake.svg" alt="Snake animation" />
+
+###
