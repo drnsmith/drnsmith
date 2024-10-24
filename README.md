@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋, I'm Natasha (Dr. Smith), and I'm a Data Scientist, AI/ML and Computer Vision Specialist, and Business Economist.</h2>
 
-<h2 align="left">Hi 👋! My name is Natasha (Dr. Smith), and I'm a Data Scientist, AI/ML and Computer Vision Specialist, and Business Economist from New Zealand.</h2>
 
 ###
 
@@ -26,13 +25,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/natashasmith"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/natalyasmith"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <a href="https://medium.com/@natashasmith"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" /></a>
   <a href="https://twitter.com/drnsmith"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" /></a>
 </div>
