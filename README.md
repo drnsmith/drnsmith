@@ -1,6 +1,20 @@
 <h2 align="left">Hi 👋, I'm Natasha (Dr. Smith), a Data Scientist, AI/ML and Computer Vision Specialist, and Business Economist.</h2>
 
+[![Follow on GitHub](https://img.shields.io/github/followers/drnsmith?label=Follow&style=social)](https://github.com/drnsmith)
 
+###
+<h2>💼 My Featured Projects:</h2>
+
+- <b>Leveraging Hadoop, MapReduce, and sentiment analysis to gauge public perception of NASDAQ companies</b>
+  - [Sentiment Analysis NASDAQ companies using Tweets](https://github.com/drnsmith/sentiment-analysis-NASDAQ-companies-Tweets)
+- <b>Using data science and machine learning to model and predict particulate matter (PM10) levels for environmental insights</b>
+  - [Air Quality Forecasting: PM10 Concentration Prediction](https://github.com/drnsmith/PM-London-Pollution)
+- <b>Project 3: Computer Vision for Medical Imaging</b>
+  - [Image-Based Diagnostics Using Deep Learning](https://github.com/drnsmith/project3)
+- <b>Project 4: Business and Economics Analytics</b>
+  - [Quantitative Models for Strategic Insights](https://github.com/drnsmith/project4)
+- <b>Solving a 4x4 Letter Placement Puzzle Using Genetic Algorithms</b>
+  - [Solving-a-4x4-Letter-Placement-Puzzle-Using-Genetic-Algorithms](https://github.com/drnsmith/Solving-a-4x4-Letter-Placement-Puzzle-Using-Genetic-Algorithms)
 ###
 
 <div align="center">
@@ -38,10 +52,3 @@
 
 ###
 
-
-
-<br clear="both">
-
-<img src="https://github.com/maurodesouza/maurodesouza/raw/output/snake.svg" alt="Snake animation" />
-
-###
