@@ -9,10 +9,6 @@
   - [Sentiment Analysis NASDAQ companies using Tweets](https://github.com/drnsmith/sentiment-analysis-NASDAQ-companies-Tweets)
 - <b>Using data science and machine learning to model and predict particulate matter (PM10) levels for environmental insights</b>
   - [Air Quality Forecasting: PM10 Concentration Prediction](https://github.com/drnsmith/PM-London-Pollution)
-- <b>Project 3: Computer Vision for Medical Imaging</b>
-  - [Image-Based Diagnostics Using Deep Learning](https://github.com/drnsmith/project3)
-- <b>Project 4: Business and Economics Analytics</b>
-  - [Quantitative Models for Strategic Insights](https://github.com/drnsmith/project4)
 - <b>Solving a 4x4 Letter Placement Puzzle Using Genetic Algorithms</b>
   - [Solving-a-4x4-Letter-Placement-Puzzle-Using-Genetic-Algorithms](https://github.com/drnsmith/Solving-a-4x4-Letter-Placement-Puzzle-Using-Genetic-Algorithms)
 ###
