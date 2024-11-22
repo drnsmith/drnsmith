@@ -9,7 +9,7 @@
   - [A Secure Client-Server Application](https://github.com/drnsmith/Client-Server-Network-Socket-Programming)
 - <b>Leveraging Hadoop, MapReduce, and sentiment analysis to gauge public perception of NASDAQ companies</b>
   - [Sentiment Analysis NASDAQ companies using Tweets](https://github.com/drnsmith/sentiment-analysis-NASDAQ-companies-Tweets)
-- <b>Using data science and machine learning to model and predict particulate matter (PM10) levels for environmental insights</b>
+- <b>Using machine learning to model and predict particulate matter (PM10) levels for environmental insights</b>
   - [Air Quality Forecasting: PM10 Concentration Prediction](https://github.com/drnsmith/PM-London-Pollution)
 - <b>Solving a 4x4 Letter Placement Puzzle Using Genetic Algorithms</b>
   - [Solving-a-4x4-Letter-Placement-Puzzle-Using-Genetic-Algorithms](https://github.com/drnsmith/Solving-a-4x4-Letter-Placement-Puzzle-Using-Genetic-Algorithms)
