@@ -5,6 +5,8 @@
 ###
 <h2>💼 My Featured Projects:</h2>
 
+- <b>The implementation of a secure client-server application using Python socket programming</b>
+  - [A Secure Client-Server Application](https://github.com/drnsmith/Client-Server-Network-Socket-Programming)
 - <b>Leveraging Hadoop, MapReduce, and sentiment analysis to gauge public perception of NASDAQ companies</b>
   - [Sentiment Analysis NASDAQ companies using Tweets](https://github.com/drnsmith/sentiment-analysis-NASDAQ-companies-Tweets)
 - <b>Using data science and machine learning to model and predict particulate matter (PM10) levels for environmental insights</b>
