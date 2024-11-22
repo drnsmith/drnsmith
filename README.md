@@ -11,6 +11,15 @@
   - [Air Quality Forecasting: PM10 Concentration Prediction](https://github.com/drnsmith/PM-London-Pollution)
 - <b>Solving a 4x4 Letter Placement Puzzle Using Genetic Algorithms</b>
   - [Solving-a-4x4-Letter-Placement-Puzzle-Using-Genetic-Algorithms](https://github.com/drnsmith/Solving-a-4x4-Letter-Placement-Puzzle-Using-Genetic-Algorithms)
+- <b>Detecting pneumonia using deep learning models on chest X-ray images</b>
+  - [Pneumonia Detection Using CNNs](https://github.com/drnsmith/pneumonia-detection-CNN)
+- <b>Building an AI classifier for recipe categorisation using natural language processing and deep learning</b>
+  - [AI Recipe Classifier](https://github.com/drnsmith/AI-Recipe-Classifier)
+- <b>Developing a warehouse management system with a focus on efficient stock management and automation</b>
+  - [Warehouse Management System](https://github.com/drnsmith/warehouse-management-system)
+- <b>Exploring topic modelling and clustering using RecipeNLG's dataset</b>
+  - [RecipeNLG: Topic Modelling and Clustering](https://github.com/drnsmith/RecipeNLG-Topic-Modelling-and-Clustering)
+
 ###
 
 <div align="center">
