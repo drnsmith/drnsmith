@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋, I'm Natasha (Dr. Smith), a Data Scientist, AI/ML and Computer Vision Specialist, and Business Economist.</h2>
+<h2 align="left">Hi 👋, I'm Natasha (Dr. Smith) — Business Scientist | Data & AI Specialist | Economist & Innovator</h2>
+<p align="left">
+I’m passionate about solving complex business challenges by combining the power of data science, AI/ML, and economics. From computer vision and predictive modeling to econometric analysis and strategic insights, I specialise in turning data into impactful solutions that drive decision-making and innovation.
+</p>
+
 
 [![Follow on GitHub](https://img.shields.io/github/followers/drnsmith?label=Follow&style=social)](https://github.com/drnsmith)
 
