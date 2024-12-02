@@ -4,6 +4,7 @@
 
 ###
 <h2>💼 My Featured Projects:</h2>
+
 - **[Building a Secure Client-Server System with Python](https://github.com/drnsmith/Client-Server-Network-Socket-Programming)**  
   _A deep dive into implementing a robust client-server application using Python socket programming. Features include secure communication through serialisation, file encryption, and multi-threading._
 
