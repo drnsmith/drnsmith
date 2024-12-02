@@ -6,13 +6,13 @@
 <h2>💼 My Featured Projects:</h2>
 
 - **[Building a Secure Client-Server System with Python](https://github.com/drnsmith/Client-Server-Network-Socket-Programming)**  
-  _A deep dive into implementing a robust client-server application using Python socket programming. Features include secure communication through serialisation, file encryption, and multi-threading._
+  _Implementing a robust client-server application using Python socket programming. Features include secure communication through serialisation, file encryption, and multi-threading._
 
 - **[Sentiment Speaks: Analysing Public Perception of NASDAQ Companies](https://github.com/drnsmith/sentiment-analysis-NASDAQ-companies-Tweets)**  
-  _Leveraging Hadoop, MapReduce, and sentiment analysis, this project analyses over 4 million tweets about NASDAQ-listed companies to extract insights into public opinion and sentiment trends._
+  _Leveraging Hadoop, MapReduce, and sentiment analysis, we analyse over 4 million tweets about NASDAQ-listed companies to extract insights into public opinion and sentiment trends._
 
 - **[Predicting Pollution: PM10 Levels in London](https://github.com/drnsmith/PM-London-Pollution)**  
-  _Using advanced machine learning techniques to model and predict PM10 air pollution levels, this project supports urban policy decisions for cleaner, healthier cities._
+  _We use advanced machine learning techniques to model and predict PM10 air pollution levels. This project supports urban policy decisions for cleaner, healthier cities._
 
 - **[Solving a 4x4 Letter Placement Puzzle Using Genetic Algorithms](https://github.com/drnsmith/Solving-a-4x4-Letter-Placement-Puzzle-Using-Genetic-Algorithms)**  
   _This project demonstrates the application of evolutionary principles, including mutation, crossover, and selection, to optimise a challenging combinatorial problem._
@@ -21,19 +21,19 @@
   _Detecting pneumonia from chest X-rays using deep learning. This project features a custom CNN and a pre-trained VGG16 model for binary classification of 'Normal' and 'Pneumonia' categories._
 
 - **[AI-Powered Recipe Difficulty Classification](https://github.com/drnsmith/AI-Recipe-Classifier)**  
-  _An innovative AI classifier designed to categorise recipes into difficulty levels (Easy, Medium, Hard, and Very Hard) by analysing ingredients and preparation steps._
+  _I build and train an innovative AI classifier designed to categorise recipes into difficulty levels (Easy, Medium, Hard, and Very Hard) by analysing ingredients and preparation steps._
 
 - **[Data Warehouse Design for OfficeProducts](https://github.com/drnsmith/warehouse-management-system)**  
-  _Designed a scalable data warehouse for a leading office supply company, featuring a Snowflake schema, ETL processes, and Oracle Database implementation for efficient analytics._
+  _We designed a scalable data warehouse for a leading office supply company, featuring a Snowflake schema, ETL processes, and Oracle Database implementation for efficient analytics._
 
 - **[Decoding Culinary Narratives: NLP in Recipe Analysis](https://github.com/drnsmith/RecipeNLG-Topic-Modelling-and-Clustering)**  
-  _Combining advanced NLP techniques like BERT embeddings with LDA topic modelling to cluster and analyse recipes semantically. Applications include personalised recipe discovery and trend analysis._
+  _Combining advanced NLP techniques (i.e., BERT embeddings) with LDA topic modelling to cluster and analyse recipes semantically._
 
 - **[Cancer Detection in Histopathology: Enhancing Model Accuracy with Colour Normalisation](https://github.com/drnsmith/ColourNorm-Histopathology-DeepLearning)**  
-  _Exploring how colour normalisation techniques improve deep learning models' performance in detecting cancer from histopathology images._
+  _In this project, we explore how colour normalisation techniques improve deep learning models' performance in detecting cancer from histopathology images._
 
 - **[Mastering CNNs: Building AI Models for Histopathology Classification](https://github.com/drnsmith/Custom-CNNs-Histopathology-Classification)**  
-  _A comprehensive guide to creating custom CNNs using the BreakHis dataset of histopathology slides. Includes optimisation and feature analysis._
+  _A comprehensive guide to creating custom CNNs using the BreakHis dataset of histopathology slides._
 
 - **[End-to-End Image Classification Pipeline for Fashion MNIST](https://github.com/drnsmith/Designing-Dense-NNs-Using-MNIST)**  
   _An end-to-end machine learning pipeline for Fashion MNIST. This project focuses on data pre-processing, building CNNs, and deploying scalable solutions._
