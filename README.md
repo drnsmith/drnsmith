@@ -11,7 +11,7 @@ I’m passionate about solving complex business challenges by combining the powe
 
 
 - **[Secure Communication Framework: Client-Server System with Python and Cryptography](https://github.com/drnsmith/Client-Server-Network-Socket-Programming)**  
-  _Developed a robust client-server application using Python socket programming. Features include secure communication through serialization, file encryption, and multi-threading._
+  _Developed a robust client-server application using Python socket programming. Features include secure communication through serialisation, file encryption, and multi-threading._
 
 - **[Big Data Sentiment Analysis: Hadoop and NLP for NASDAQ Companies](https://github.com/drnsmith/sentiment-analysis-NASDAQ-companies-Tweets)**  
   _Leveraged Hadoop, MapReduce, and sentiment analysis to process over 4 million tweets about NASDAQ-listed companies, extracting insights into public opinion and sentiment trends._
@@ -20,7 +20,7 @@ I’m passionate about solving complex business challenges by combining the powe
   _Applied various advanced machine learning techniques to model and predict PM10 air pollution levels in London (United Kingdom), supporting urban policy decisions for cleaner, healthier cities._
 
 - **[Combinatorial Optimisation with Genetic Algorithms: Solving the 4x4 Puzzle](https://github.com/drnsmith/Solving-a-4x4-Letter-Placement-Puzzle-Using-Genetic-Algorithms)**  
-  _Demonstrated the application of evolutionary principles, including mutation, crossover, and selection, to optimize a challenging combinatorial puzzle._
+  _Demonstrated the application of evolutionary principles, including mutation, crossover, and selection, to optimise a challenging combinatorial puzzle._
 
 - **[AI-Driven Pneumonia Detection Using CNNs and VGG16](https://github.com/drnsmith/pneumonia-detection-CNN)**  
   _Built a deep learning pipeline to detect pneumonia from chest X-rays. The project compares a custom CNN with a pre-trained VGG16 model for binary classification._
