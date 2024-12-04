@@ -43,7 +43,7 @@ I’m passionate about solving complex business challenges by combining the powe
 - **[Building and Training Dense Neural Network for Classifying Images](https://github.com/drnsmith/Designing-Dense-NNs-Using-MNIST)**  
   _Implemented a dense neural network (DNN) for classifying images in the Fashion MNIST dataset with the goal to explore DNN architecture design, activation functions, and regularisation techniques such as dropout, achieving accurate classification of clothing items._
 
-- **[AI-Powered Air Quality Prediction with Regression Models, Machine Learning Techniques and LSTMs](https://github.com/drnsmith/Pollution-Prediction-Auckland)**  
+- **[AI-Powered Air Quality Prediction with Regression Models and Advanced Machine Learning Techniques (LSTM)](https://github.com/drnsmith/Pollution-Prediction-Auckland)**  
   _Harnessed AI to model and predict PM10 pollution trends in Auckland (New Zealand) using advanced regression models and LSTM networks to aid environmental policy decisions._
 
 - **[Histopathology AI: Breast Cancer Detection with ResNet, DenseNet, and EfficientNet](https://github.com/drnsmith/Histopathology-AI-BreastCancer)**  
