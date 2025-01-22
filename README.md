@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Natasha (Dr. Smith) — Business Scientist | Data & AI Specialist | Economist & Innovator</h2>
+<h2 align="left">Hi 👋, I'm Natasha (Dr. Smith) — Business Scientist | Data & AI Engineer | Economist & Innovator</h2>
 <p align="left">
 I love connecting the dots between data, AI, and strategy to tackle the kind of business problems that keep people up at night. Whether it’s machine learning, predictive modelling, or just good old-fashioned number-crunching, these days I’m all about building AI-powered tools that spark innovation and help organisations make smarter, faster, intelligent decisions. My real passion? Creating tangible, impactful products that solve big challenges and deliver real, measurable results. Starting as an economist and shifting into AI engineering gave me a fresh perspective on how to turn data into solutions that actually make a difference.
 
