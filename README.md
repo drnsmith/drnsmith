@@ -12,6 +12,9 @@ My real passion? Creating tangible, impactful products that solve big challenges
 ###
 <h2>💼 My Featured Projects:</h2>
 
+- **[Multi-Agent AI System for Business Risk Assessment]([https://github.com/drnsmith/AIAssistantRecipe](https://github.com/drnsmith/Multi-AgentAI-Business-Risk-Assessment))**  
+  _This system leverages advanced AI frameworks to provide comprehensive risk assessments, enabling businesses to make informed decisions and mitigate potential threats._
+
 - **[AI-Powered Recipe Assistant: Where Data Science Meets Engineering](https://github.com/drnsmith/AIAssistantRecipe)**  
   _This full-stack project builds an intelligent recipe assistant that personalises cooking experiences. Featuring a user-friendly frontend built with **React**, **Bootstrap**, and **Streamlit**, it enables users to generate recipes, make real-time ingredient substitutions, and customise dietary preferences like vegan or gluten-free. Powered by **Python** and **NLP** and **LLMs** on the backend, the scalable API ensures efficient, AI-driven recommendations, showcasing seamless integration of AI innovation with robust engineering and intuitive design._
   
