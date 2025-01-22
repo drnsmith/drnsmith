@@ -9,7 +9,9 @@ I’m passionate about solving complex business challenges by combining the powe
 ###
 <h2>💼 My Featured Projects:</h2>
 
-
+- **[AI-Powered Recipe Assistant: Where Data Science Meets Engineering](https://github.com/drnsmith/AIAssistantRecipe)**  
+  _This full-stack project blends data science and engineering to create an intelligent recipe assistant that personalises cooking experiences. Featuring a user-friendly frontend built with React and Streamlit, it enables users to generate recipes, make real-time ingredient substitutions, and customise dietary preferences like vegan or gluten-free. Powered by Python and NLP on the backend, the scalable API ensures efficient, AI-driven recommendations, showcasing seamless integration of AI innovation with robust engineering and intuitive design._
+  
 - **[Secure Communication Framework: Client-Server System with Python and Cryptography](https://github.com/drnsmith/Client-Server-Network-Socket-Programming)**  
   _Developed a robust client-server application using Python socket programming. Features include secure communication through serialisation, file encryption, and multi-threading._
 
