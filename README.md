@@ -84,12 +84,13 @@ I love connecting the dots between data, AI, and strategy to tackle the kind of 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/natalyasmith"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
-  <a href="https://medium.com/@[drnatashasth](https://medium.com/@NeverOblivious)"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Medium logo" /></a>
+  <a href="https://medium.com/@NeverOblivious"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Medium logo" /></a>
   <!-- <a href="https://twitter.com/NeverOblivious"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" /></a> -->
   <a href="https://neveroblivious.substack.com/">
-    <img src="./substack_wordmark.png" alt="Substack Logo" height="35">
+    <img src="./substack.png" alt="Substack Logo" height="35">
   </a>
 </div>
+
 
 
 ###
