@@ -2,7 +2,7 @@
 <p align="left">
 I love connecting the dots between data, AI, and strategy to tackle the kind of business problems that keep people up at night. Whether it’s machine learning, predictive modelling, or just good old-fashioned number-crunching, these days I’m all about building AI-powered tools that spark innovation and help organisations make smarter, faster, intelligent decisions. 
   
-My real passion? Creating tangible, impactful products that solve big challenges and deliver real, measurable results. Starting as a business economist and shifting into AI engineering gave me a fresh perspective on how to turn data into solutions that actually make a difference — and how to communicate what it all means to stakeholders, ensuring alignment, trust, and action..
+My real passion? Creating tangible, impactful products that solve big challenges and deliver real, measurable results. Starting as a business economist and shifting into AI engineering gave me a fresh perspective on how to turn data into solutions that actually make a difference — and how to communicate what it all means to stakeholders, ensuring alignment, trust, and action.
 
 </p>
 
@@ -15,7 +15,7 @@ My real passion? Creating tangible, impactful products that solve big challenges
 - **[Multi-Agent AI System for Business Risk Assessment](https://github.com/drnsmith/Multi-AgentAI-Business-Risk-Assessment)**  
   _This system leverages advanced AI frameworks to provide comprehensive risk assessments, enabling businesses to make informed decisions and mitigate potential threats._
 
-- **[AI-Powered Recipe Assistant: Where Data Science Meets Engineering](https://github.com/drnsmith/AIAssistantRecipe)**  
+- **[Multi-Agent AI System: Recipe Assistant: Where Data Science Meets Engineering](https://github.com/drnsmith/AIAssistantRecipe)**  
   _This full-stack project builds an intelligent recipe assistant that personalises cooking experiences. Featuring a user-friendly frontend built with **React**, **Bootstrap**, and **Streamlit**, it enables users to generate recipes, make real-time ingredient substitutions, and customise dietary preferences like vegan or gluten-free. Powered by **Python** and **NLP** and **LLMs** on the backend, the scalable API ensures efficient, AI-driven recommendations, showcasing seamless integration of AI innovation with robust engineering and intuitive design._
   
 - **[Secure Communication Framework: Client-Server System with Python and Cryptography](https://github.com/drnsmith/Client-Server-Network-Socket-Programming)**  
