@@ -1,10 +1,12 @@
-<h2 align="left">Hi 👋, I'm Natasha (Dr. Smith) — Business Scientist | Data & AI Engineer | Economist & Innovator</h2>
+<h2 align="left">Hi 👋, I'm Natasha — AI Data Scientist | Quant | Business Economist</h2>
 <p align="left">
-I love connecting the dots between data, AI, and strategy to tackle the kind of business problems that keep people up at night. Whether it’s machine learning, predictive modelling, or just good old-fashioned number-crunching, these days I’m all about building AI-powered tools that spark innovation and help organisations make smarter, faster, intelligent decisions. 
+I blend a passion for artificial intelligence, quantitative analysis, and business economics to transform raw data into actionable insights. Leveraging my experience as an AI Data Scientist with a strong quant background, I build predictive models and innovative solutions that empower organisations to make smarter, faster decisions.
   
-My real passion? Creating tangible, impactful products that solve big challenges and deliver real, measurable results. Starting as a business economist and shifting into AI engineering gave me a fresh perspective on how to turn data into solutions that actually make a difference — and how to communicate what it all means to stakeholders, ensuring alignment, trust, and action.
+Whether it's fine-tuning machine learning algorithms or uncovering strategic opportunities, I love bridging the gap between complex data and clear, impactful business strategy.
 
+Being a rare breed gives me a fresh perspective on how to turn data into solutions that actually make a difference — and how to communicate what it all means to stakeholders, ensuring alignment, trust, and action.
 </p>
+
 
 
 [![Follow on GitHub](https://img.shields.io/github/followers/drnsmith?label=Follow&style=social)](https://github.com/drnsmith)
