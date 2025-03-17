@@ -14,11 +14,9 @@ Being a rare breed gives me a fresh perspective on how to turn data into solutio
 ###
 <h2>💼 My Featured Projects:</h2>
 
-- **[Multi-Agent AI System for Business Risk Assessment](https://github.com/drnsmith/Multi-AgentAI-Business-Risk-Assessment)**  
-  _This system leverages advanced AI frameworks to provide comprehensive risk assessments, enabling businesses to make informed decisions and mitigate potential threats._
 
-- **[Multi-Agent AI System: Recipe Assistant: Where Data Science Meets Engineering](https://github.com/drnsmith/AIAssistantRecipe)**  
-  _This full-stack project builds an intelligent recipe assistant that personalises cooking experiences. Featuring a user-friendly frontend built with **React**, **Bootstrap**, and **Streamlit**, it enables users to generate recipes, make real-time ingredient substitutions, and customise dietary preferences like vegan or gluten-free. Powered by **Python** and **NLP** and **LLMs** on the backend, the scalable API ensures efficient, AI-driven recommendations, showcasing seamless integration of AI innovation with robust engineering and intuitive design._
+- **[AI Recipe Assistant: Where Data Science Meets Engineering](https://github.com/drnsmith/AI-Assistant-Recipe)**  
+  _This full-stack project is an intelligent recipe assistant that helps users discover, generate, and save recipes. Built with **Streamlit** for a clean, interactive UI, it enables users to search a database of 2M+ recipes, generate AI-powered recipes using **LLMs**, and save favourites for easy access. The backend is powered by **Python**, **SQL**, and **NLP**, ensuring efficient querying and personalised recommendations._
   
 - **[Secure Communication Framework: Client-Server System with Python and Cryptography](https://github.com/drnsmith/Client-Server-Network-Socket-Programming)**  
   _Developed a robust client-server application using Python socket programming. Features include secure communication through serialisation, file encryption, and multi-threading._
