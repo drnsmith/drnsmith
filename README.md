@@ -37,7 +37,7 @@ _Extracts and analyses web articles in real time, using **Transformers** for sum
 - **[Machine Learning Predictive Analytics for PM10 Pollution: Using Random Forests, Gradient Boosting, XGBoost, Ridge and Lasso Regressions, and Neural Network Regressor](https://github.com/drnsmith/PM-London-Pollution)**  
   _Applied various advanced machine learning techniques to model and predict PM10 air pollution levels in London (United Kingdom), supporting urban policy decisions for cleaner, healthier cities._
 
-  - **[SQL to API: Functional APIs with Role-Based Access Control](https://github.com/drnsmith/SQLtoAPI-RBAC)**  
+- **[SQL to API: Functional APIs with Role-Based Access Control](https://github.com/drnsmith/SQLtoAPI-RBAC)**  
   _A backend engineering project that transforms raw SQL queries into secure, production-ready APIs. This system leverages **Node.js, Express.js, and PostgreSQL**, implementing JWT-based **Role-Based Access Control (RBAC)** to ensure granular permissions for different user roles—admin, manager, and general user. It enables efficient access to data with strict control over what users can read, write, or modify. Built with **RESTful** principles, the project demonstrates how to wrap SQL logic in a scalable, maintainable API layer, making it ideal for internal tools, reporting dashboards, or frontend apps that need secure backend data access._
 
 - **[Combinatorial Optimisation with Genetic Algorithms: Solving the 4x4 Puzzle](https://github.com/drnsmith/Solving-a-4x4-Letter-Placement-Puzzle-Using-Genetic-Algorithms)**  
