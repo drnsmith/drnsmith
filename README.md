@@ -20,7 +20,7 @@ Welcome to my portfolio. Below you'll find a curated list of end-to-end projects
 _A modular multi-agent framework using **AutoGen, LlamaIndex, and LangChain** to assess financial, compliance, and market risk. Each agent analyses structured and unstructured sources (news, filings, data reports), collaborating via **LLM** orchestration to surface early risk signals._
 
 - **[Churn Prediction & Retention Analytics Platform](https://github.com/drnsmith/ChurnAnalysis)**  
-  *End-to-end ML pipeline predicting customer churn using **XGBoost** and **SHAP** for explainability, deployed via **Streamlit** with an **LLM insights layer** for natural language recommendations.*
+ _End-to-end ML pipeline predicting customer churn using **XGBoost** and **SHAP** for explainability, deployed via **Streamlit** with an **LLM insights layer** for natural language recommendations._
 
  - **[Fast-Track Fake News Detector: Real-Time Misinformation Analysis](https://github.com/drnsmith/AI-Fake-News-Detector)**
 _An AI system combining **LLM** fact-checking, NLP-based bias detection, and **graph-based** misinformation propagation analysis. Scrapes news and social media via APIs, delivering explainable insights in a Gradio UI powered by **GPT-4o and LangChain**._
