@@ -15,7 +15,6 @@ I’m used to working with imperfect datasets where uncertainty, sampling, and d
 
 My approach is simple: strong statistical reasoning, practical engineering, and clear communication.
 
----
 
 ###
 <h2>💼 My Featured Projects:</h2>
@@ -38,7 +37,7 @@ _Extracts and analyses web articles in real time, using **Transformers** for sum
 
 - **[AI Recipe Assistant: Where Data Science Meets Engineering](https://github.com/drnsmith/AI-Assistant-Recipe)**
   
-_This full-stack project is an intelligent recipe assistant that helps users discover, generate, and save recipes. Built with **Streamlit** for a clean, interactive UI, it enables users to search a database of 2M+ recipes, generate AI-powered recipes using **LLMs**, and save favourites for easy access. The backend is powered by **Python**, **SQL**, and **NLP**, ensuring efficient querying and personalised recommendations._
+_Buil an intelligent recipe assistant that helps users discover, generate, and save recipes. Built with **Streamlit** for a clean, interactive UI, it enables users to search a database of 2M+ recipes, generate AI-powered recipes using **LLMs**, and save favourites for easy access. The backend is powered by **Python**, **SQL**, and **NLP**, ensuring efficient querying and personalised recommendations._
   
 - **[Secure Communication Framework: Client-Server System with Python and Cryptography](https://github.com/drnsmith/Client-Server-Network-Socket-Programming)**
   
@@ -116,15 +115,6 @@ New connections are always welcome — I also publish a newsletter on LinkedIn.
     <img src="https://img.shields.io/static/v1?label=&message=Substack&logo=substack&color=FF6719&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </p>
-
----
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drnsmith&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drnsmith&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
