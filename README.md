@@ -1,12 +1,23 @@
-<h2 align="left">Hi 👋, I'm Natasha — AI Data Scientist | Quant | Business Economist</h2>
+<h2 align="left">Hi 👋, I'm Natasha — a Data Scientist with a background in business, econometrics, and computer science.</h2>
 <p align="left">
-I blend a passion for artificial intelligence (AI), quantitative analysis, and business economics to transform raw data into actionable insights. Leveraging my experience as an AI Data Scientist with a strong quant background, I build predictive models and innovative solutions that empower organisations to make smarter, faster decisions.
-  
-Whether it's fine-tuning machine learning (ML) algorithms or uncovering strategic opportunities, I love bridging the gap between complex data and clear, impactful business strategy.
+I started in business and economics (Master’s), moved into statistical modelling and risk analysis (PhD), and later added computer science to strengthen my engineering foundations. My work now spans the full data and AI stack: **pipelines → modelling → evaluation → deployment → agentic systems**.
 
-Being a rare breed gives me a fresh perspective on how to turn data into solutions that actually make a difference — and how to communicate what it all means to stakeholders, ensuring alignment, trust, and action.
+I’m used to working with imperfect datasets where uncertainty, sampling, and data quality checks matter as much as the model itself.
 
-Welcome to my portfolio. Below you'll find a curated list of end-to-end projects spanning ML, AI systems, data engineering, NLP, and more. Each project reflects my focus on building ethical, explainable, and user-driven AI solutions.
+
+**I focus on:**
+- Statistical modelling & inference (frequentist + Bayesian)  
+- Machine learning & NLP (classical + LLM-based)  
+- GenAI / agentic systems (LangChain, RAG, vector stores, APIs)  
+- Data & software engineering fundamentals (Python, SQL, dbt, Snowflake)  
+- Data visualisation for analysis and communication  
+  - Python visualisation (matplotlib, seaborn, plotly)  
+  - Model diagnostics, uncertainty visualisation, data quality checks  
+  - Familiarity with Tableau and Power BI for stakeholder dashboards  
+
+My approach is simple: strong statistical reasoning, practical engineering, and clear communication.
+
+Below is a curated selection of end-to-end projects across ML, AI systems, RAG, statistical modelling, and data engineering.
 </p>
 
 
@@ -126,7 +137,7 @@ _Extracts and analyses web articles in real time, using **Transformers** for sum
   <a href="https://www.linkedin.com/in/natalyasmith"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
   <a href="https://medium.com/@NeverOblivious"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Medium logo" /></a>
   <!-- <a href="https://twitter.com/NeverOblivious"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" /></a> -->
-  <a href="https://neveroblivious.substack.com/">
+  <a href="[https://substack.com/@errolog?utm_campaign=profile&utm_medium=profile-page]">
     <img src="./substack_wordmark.png" alt="Substack Logo" height="35">
   </a>
 </div>
