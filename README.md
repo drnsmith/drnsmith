@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="woman coding" />
+
 
 ### Hi 👋, I'm Natasha — a Data Scientist with a background in business, econometrics, and computer science.
 
@@ -17,82 +17,86 @@ My approach is simple: strong statistical reasoning, practical engineering, and 
 
 ---
 
-<h2 align="left">⭐ Featured Projects</h2>
+###
+<h2>💼 My Featured Projects:</h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>1. Olist Warehouse (Snowflake + dbt + SQL) — WIP</h3>
-      <p>
-        Actively building a modern analytics engineering pipeline using <strong>Snowflake</strong>, <strong>dbt</strong>, and <strong>SQL</strong> for the Olist e-commerce dataset.<br>
-        Repository initialised; models, tests, documentation, and transformations currently in development.<br>
-        <a href="https://github.com/drnsmith/data-warehouse-olist">Repo</a>
-      </p>
-    </td>
+- **[Multi-Agent AI System for Business Risk Assessment](https://github.com/drnsmith/Multi-AgentAI-Business-Risk-Assessment)**
+  
+_A modular multi-agent framework using **AutoGen, LlamaIndex, and LangChain** to assess financial, compliance, and market risk. Each agent analyses structured and unstructured sources (news, filings, data reports), collaborating via **LLM** orchestration to surface early risk signals._
 
-    <td width="50%" valign="top">
-      <h3>2. Multi-Agent AI System for Business Risk Assessment</h3>
-      <p>
-        A modular multi-agent system built with <strong>AutoGen</strong>, <strong>LlamaIndex</strong>, and <strong>LangChain</strong>.<br>
-        Agents analyse structured and unstructured data to surface early risk signals and generate explainable assessments.<br>
-        <a href="https://github.com/drnsmith/Multi-AgentAI-Business-Risk-Assessment">Repo</a>
-      </p>
-    </td>
-  </tr>
+- **[Churn Prediction & Retention Analytics Platform](https://github.com/drnsmith/ChurnAnalysis)**
+  
+ _End-to-end ML pipeline predicting customer churn using **XGBoost** and **SHAP** for explainability, deployed via **Streamlit** with an **LLM insights layer** for natural language recommendations._
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>3. Churn Prediction & Retention Analytics Platform</h3>
-      <p>
-        End-to-end ML pipeline using <strong>XGBoost</strong>, <strong>SHAP</strong>, and SQL feature engineering.<br>
-        Deployed with <strong>Streamlit</strong> and an LLM insights layer for natural-language retention recommendations.<br>
-        <a href="https://github.com/drnsmith/ChurnAnalysis">Repo</a>
-      </p>
-    </td>
+ - **[Fast-Track Fake News Detector: Real-Time Misinformation Analysis](https://github.com/drnsmith/AI-Fake-News-Detector)**
+   
+_An AI system combining **LLM** fact-checking, NLP-based bias detection, and **graph-based** misinformation propagation analysis. Scrapes news and social media via APIs, delivering explainable insights in a Gradio UI powered by **GPT-4o and LangChain**._
 
-    <td width="50%" valign="top">
-      <h3>4. Fast-Track Fake News Detector</h3>
-      <p>
-        Misinformation-detection system combining LLM fact-checking, NLP bias scoring, and graph propagation analysis.<br>
-        Includes real-time scraping via APIs and a LangChain-based processing pipeline.<br>
-        <a href="https://github.com/drnsmith/AI-Fake-News-Detector">Repo</a>
-      </p>
-    </td>
-  </tr>
+- **[AI Web Analyser: Credibility & Bias Detection for Online Content](https://github.com/drnsmith/AI-Web-analyser)**
+  
+_Extracts and analyses web articles in real time, using **Transformers** for summarisation, bias scoring, and sentiment detection. Integrates **FastAPI with Gradio** for an interactive tool that empowers users to evaluate media quality and bias on the fly._
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>5. AI Web Analyser: Credibility & Bias Detection</h3>
-      <p>
-        Real-time content analyser using <strong>Transformers</strong> for summarisation, sentiment, and bias scoring.<br>
-        Built with <strong>FastAPI</strong> and <strong>Gradio</strong> for interactive evaluation of online content quality.<br>
-        <a href="https://github.com/drnsmith/AI-Web-analyser">Repo</a>
-      </p>
-    </td>
+- **[AI Recipe Assistant: Where Data Science Meets Engineering](https://github.com/drnsmith/AI-Assistant-Recipe)**
+  
+_This full-stack project is an intelligent recipe assistant that helps users discover, generate, and save recipes. Built with **Streamlit** for a clean, interactive UI, it enables users to search a database of 2M+ recipes, generate AI-powered recipes using **LLMs**, and save favourites for easy access. The backend is powered by **Python**, **SQL**, and **NLP**, ensuring efficient querying and personalised recommendations._
+  
+- **[Secure Communication Framework: Client-Server System with Python and Cryptography](https://github.com/drnsmith/Client-Server-Network-Socket-Programming)**
+  
+_Developed a robust client-server application using Python **socket programming**. Features include secure communication through **serialisation, file encryption, and multi-threading**._
 
-    <td width="50%" valign="top">
-      <h3>6. AI Recipe Assistant (Full-Stack, 2M+ Recipes)</h3>
-      <p>
-        Full-stack intelligent recipe assistant using Python, SQL, NLP preprocessing, and LLMs.<br>
-        Searches a 2M+ recipe corpus, generates personalised recipes, and stores user favourites.<br>
-        <a href="https://github.com/drnsmith/AI-Assistant-Recipe">Repo</a>
-      </p>
-    </td>
-  </tr>
+- **[Big Data Sentiment Analysis: Hadoop, Hive, and NLP for Sentiment Analysis of NASDAQ Companies](https://github.com/drnsmith/sentiment-analysis-NASDAQ-companies-Tweets)**
+  
+_Leveraged **Hadoop, MapReduce, and sentiment analysis** to process over 4 million tweets about NASDAQ-listed companies, extracting insights into public opinion and sentiment trends._
 
-  <tr>
-    <td width="50%" valign="top" colspan="2">
-      <h3>7. Pneumonia Detection (CNN + VGG16)</h3>
-      <p>
-        Medical imaging project comparing a custom CNN and a fine-tuned VGG16 model to classify pneumonia from chest X-rays.<br>
-        Includes preprocessing, model benchmarking, and evaluation for binary clinical classification.<br>
-        <a href="https://github.com/drnsmith/pneumonia-detection-CNN">Repo</a>
-      </p>
-    </td>
-  </tr>
-</table>
+- **[Machine Learning Predictive Analytics for PM10 Pollution: Using Random Forests, Gradient Boosting, XGBoost, Ridge and Lasso Regressions, and Neural Network Regressor](https://github.com/drnsmith/PM-London-Pollution)**
+  
+_Applied various advanced machine learning techniques to model and predict PM10 air pollution levels in London (United Kingdom), supporting urban policy decisions for cleaner, healthier cities._
 
----
+- **[SQL to API: Functional APIs with Role-Based Access Control](https://github.com/drnsmith/SQLtoAPI-RBAC)**
+   
+_A backend engineering project that transforms raw SQL queries into secure, production-ready APIs. This system leverages **Node.js, Express.js, and PostgreSQL**, implementing JWT-based **Role-Based Access Control (RBAC)** to ensure granular permissions for different user roles—admin, manager, and general user. It enables efficient access to data with strict control over what users can read, write, or modify. Built with **RESTful** principles, the project demonstrates how to wrap SQL logic in a scalable, maintainable API layer, making it ideal for internal tools, reporting dashboards, or frontend apps that need secure backend data access._
+
+- **[Combinatorial Optimisation with Genetic Algorithms: Solving the 4x4 Puzzle](https://github.com/drnsmith/Solving-a-4x4-Letter-Placement-Puzzle-Using-Genetic-Algorithms)**
+    
+_Demonstrated the application of evolutionary principles, including mutation, crossover, and selection, to optimise a challenging combinatorial puzzle._
+
+- **[AI-Driven Pneumonia Detection Using CNNs and VGG16](https://github.com/drnsmith/pneumonia-detection-CNN)**
+  
+_Built a deep learning pipeline to detect pneumonia from chest X-rays. The project compares a custom CNN with a pre-trained VGG16 model for binary classification._
+
+- **[AI-Powered Recipe Difficulty Classification with NLP and ML](https://github.com/drnsmith/AI-Recipe-Classifier)**
+  
+_Built and trained an innovative AI classifier to categorise recipes into difficulty levels by analysing ingredients and preparation steps using machine learning and NLP._
+
+- **[Scalable Data Warehouse Design with Snowflake and Oracle](https://github.com/drnsmith/warehouse-management-system)**
+   
+_Designed a scalable data warehouse for a leading office supply company, featuring a Snowflake schema, ETL processes, and Oracle Database implementation for analytics._
+
+- **[NLP-Driven Recipe Clustering: Topic Modelling with BERT and LDA](https://github.com/drnsmith/RecipeNLG-Topic-Modelling-and-Clustering)**
+    
+_Used advanced NLP techniques (BERT embeddings and LDA topic modelling) to cluster and semantically analyse recipes, uncovering trends in culinary narratives._
+
+- **[Colour Normalisation in Deep Learning: Enhancing Histopathology Image Classification](https://github.com/drnsmith/ColourNorm-Histopathology-DeepLearning)**
+   
+_Explored the role of colour normalisation techniques in improving deep learning models for cancer detection from histopathology images._
+
+- **[Custom CNNs for Histopathology Tumour Classification](https://github.com/drnsmith/Custom-CNNs-Histopathology-Classification)**
+  
+_Built custom CNNs for histopathology classification using the BreakHis dataset, incorporating advanced techniques like dropout, transfer learning, and batch normalisation._
+
+- **[Building, Training and Deploying Dense Neural Network for Classifying Images](https://github.com/drnsmith/Designing-Dense-NNs-Using-MNIST)**
+  
+_Implemented a **dense neural network (DNN)** for classifying images in the Fashion MNIST dataset with the goal to explore DNN architecture design, activation functions, and regularisation techniques such as dropout, achieving accurate classification of clothing items._
+
+- **[AI-Powered Air Quality Prediction with Regression Models and Advanced Machine Learning Techniques (LSTM)](https://github.com/drnsmith/Pollution-Prediction-Auckland)**
+   
+_Harnessed AI to model and predict PM10 pollution trends in Auckland (New Zealand) using advanced regression models and **LSTM networks** to aid environmental policy decisions._
+
+- **[Histopathology AI: Breast Cancer Detection with ResNet, DenseNet, and EfficientNet](https://github.com/drnsmith/Histopathology-AI-BreastCancer)**
+  
+_Tackled class imbalance and model interpretability challenges in breast cancer diagnosis using cutting-edge architectures like ResNet, DenseNet, and EfficientNet._
+
+###
 
 <h2 align="left">📝 How I Think & Where I Write</h2>
 
@@ -115,7 +119,33 @@ New connections are always welcome — I also publish a newsletter on LinkedIn.
 
 ---
 
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drnsmith&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drnsmith&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=drnsmith&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drnsmith&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  
+</div>
+
+###
+
+<img width="451" height="688" alt="image" src="https://github.com/user-attachments/assets/34f8d283-a117-46f4-8665-3025f13599c6" />
