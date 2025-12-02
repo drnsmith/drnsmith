@@ -15,7 +15,6 @@ I’m used to working with imperfect datasets where uncertainty, sampling, and d
 
 My approach is simple: strong statistical reasoning, practical engineering, and clear communication.
 
-
 ---
 
 <h2 align="left">⭐ Featured Projects</h2>
@@ -29,6 +28,8 @@ My approach is simple: strong statistical reasoning, practical engineering, and 
         Repository initialised; models, tests, documentation, and transformations currently in development.<br>
         <a href="https://github.com/drnsmith/data-warehouse-olist">Repo</a>
       </p>
+    </td>
+
     <td width="50%" valign="top">
       <h3>2. Multi-Agent AI System for Business Risk Assessment</h3>
       <p>
@@ -47,9 +48,9 @@ My approach is simple: strong statistical reasoning, practical engineering, and 
         Deployed with <strong>Streamlit</strong> and an LLM insights layer for natural-language retention recommendations.<br>
         <a href="https://github.com/drnsmith/ChurnAnalysis">Repo</a>
       </p>
-          </td>
-  </tr>
-    </td width="50%" valign="top">
+    </td>
+
+    <td width="50%" valign="top">
       <h3>4. Fast-Track Fake News Detector</h3>
       <p>
         Misinformation-detection system combining LLM fact-checking, NLP bias scoring, and graph propagation analysis.<br>
@@ -66,9 +67,9 @@ My approach is simple: strong statistical reasoning, practical engineering, and 
         Real-time content analyser using <strong>Transformers</strong> for summarisation, sentiment, and bias scoring.<br>
         Built with <strong>FastAPI</strong> and <strong>Gradio</strong> for interactive evaluation of online content quality.<br>
         <a href="https://github.com/drnsmith/AI-Web-analyser">Repo</a>
-        </p>
+      </p>
     </td>
-  </tr>
+
     <td width="50%" valign="top">
       <h3>6. AI Recipe Assistant (Full-Stack, 2M+ Recipes)</h3>
       <p>
@@ -91,15 +92,12 @@ My approach is simple: strong statistical reasoning, practical engineering, and 
   </tr>
 </table>
 
-
 ---
 
 <h2 align="left">📝 How I Think & Where I Write</h2>
 
-<p align="left">
 I write about data, uncertainty, AI, human decision-making, and the psychology of systems.  
 New connections are always welcome — I also publish a newsletter on LinkedIn.
-</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/drnsmith">
@@ -116,21 +114,8 @@ New connections are always welcome — I also publish a newsletter on LinkedIn.
 </p>
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drnsmith&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drnsmith&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
-</div>
-
-<br>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drnsmith&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drnsmith&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=drnsmith&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drnsmith&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages graph" />
 </div>
-
-###
-<img width="468" height="220" alt="image" src="https://github.com/user-attachments/assets/54809529-5ddf-460c-aea2-cfc378cef525" />
-
-
