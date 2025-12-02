@@ -123,22 +123,21 @@ I write about data, uncertainty, AI, human decision-making, and the psychology o
 New connections are always welcome — I also publish a newsletter on LinkedIn.
 </p>
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/drnsmith">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
   <a href="https://medium.com/@NeverOblivious">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&color=12100E&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?label=&message=Medium&logo=medium&color=12100E&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
   <a href="https://substack.com/@errolog">
-    <img src="https://img.shields.io/badge/Substack-%23FF6719?style=for-the-badge&logo=substack&logoColor=white" height="35" />
+    <img src="https://img.shields.io/static/v1?label=&message=Substack&logo=substack&color=FF6719&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </p>
 
 ---
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=drnsmith&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drnsmith&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
@@ -146,17 +145,14 @@ New connections are always welcome — I also publish a newsletter on LinkedIn.
 
 <br>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=drnsmith&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drnsmith&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
+<img width="468" height="220" alt="image" src="https://github.com/user-attachments/assets/54809529-5ddf-460c-aea2-cfc378cef525" />
 
 
