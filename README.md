@@ -17,8 +17,6 @@ My approach is straightforward: **strong statistical reasoning, practical engine
 
 
 ###
-<h2>💼 My Featured Projects:</h2>
-
 <h2>💼 Featured Projects</h2>
 
 - **[Spectral Drug Verification](https://github.com/drnsmith/Spectral-Drug-Verification)**
