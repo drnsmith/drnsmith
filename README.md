@@ -49,8 +49,6 @@ My approach is straightforward: **strong statistical reasoning, practical engine
 
 <h2 align="left">📝 How I Think & Where I Write</h2>
 
-<h2 align="left">📝 How I Think & Where I Write</h2>
-
 I write about systems under strain: data systems, decision systems, biological systems, and the human tendency to misunderstand all three.
 
 My work sits somewhere between data science, AI, uncertainty, physiology, and philosophy of modern life. The themes vary, but the underlying interest is constant: **complex systems, failure modes, and the gap between reality and the stories we tell about it**.
