@@ -1,106 +1,62 @@
+### Hi 👋, I'm Natasha — a Quantitative Data Scientist working at the intersection of statistical modelling, machine learning, and complex systems.
 
+My background spans business and economics, econometrics, risk analysis, and computer science. I started in business economics, moved into statistical modelling and uncertainty analysis during my PhD, and later added computer science to strengthen my engineering foundations.  
 
-### Hi 👋, I'm Natasha — a Data Scientist with a background in business, econometrics, and computer science.
+I now build applied data and AI systems across the full workflow: **data pipelines → modelling → evaluation → deployment**.
 
-I started in business and economics (Master’s), moved into statistical modelling and risk analysis (PhD), and later added computer science (Master’s) to strengthen my engineering foundations. My work now spans the full data and ML/AI stack: **pipelines → modelling → evaluation → deployment → agentic systems**.
+I’m especially drawn to messy, high-stakes problems where the data is imperfect, the signal is partial, and the cost of getting it wrong is not trivial. That includes work in areas such as healthcare, risk, forecasting, trust, and decision support.
 
-I’m used to working with imperfect datasets where uncertainty, sampling, and data quality checks matter as much as the model itself.
+**My work typically focuses on:**
+- statistical modelling, inference, and uncertainty analysis  
+- machine learning across structured, unstructured, image, and time-series data  
+- NLP and LLM-based systems where retrieval, evaluation, and reliability matter  
+- data pipelines, analytics engineering, and reproducible workflows in Python and SQL  
+- explainability, diagnostics, and decision support for real-world use  
 
-**I focus on:**
-- Statistical modelling & inference (frequentist + Bayesian)  
-- Machine learning & NLP (classical + LLM-based)  
-- GenAI / agentic systems (LangChain, RAG, vector stores, APIs)  
-- Data & software engineering fundamentals (Python, SQL, dbt, Snowflake)  
-- Data visualisation: matplotlib, seaborn, plotly; model diagnostics & uncertainty; Tableau & Power BI (stakeholder dashboards)  
-
-My approach is simple: strong statistical reasoning, practical engineering, and clear communication.
+My approach is straightforward: **strong statistical reasoning, practical engineering, and clear communication.**
 
 
 ###
 <h2>💼 My Featured Projects:</h2>
 
-- **[Multi-Agent AI System for Business Risk Assessment](https://github.com/drnsmith/Multi-AgentAI-Business-Risk-Assessment)**
+<h2>💼 Featured Projects</h2>
+
+- **[Spectral Drug Verification](https://github.com/drnsmith/Spectral-Drug-Verification)**
   
-_A modular multi-agent framework using **AutoGen, LlamaIndex, and LangChain** to assess financial, compliance, and market risk. Each agent analyses structured and unstructured sources (news, filings, data reports), collaborating via **LLM** orchestration to surface early risk signals._
+  Built a verification workflow for comparing measured spectral signatures against reference compound libraries, with a focus on chemically similar classes, concentration differences, and classification reliability. A scientifically grounded project centred on signal quality, similarity structure, and decision confidence.
 
-- **[Churn Prediction & Retention Analytics Platform](https://github.com/drnsmith/ChurnAnalysis)**
+- **[Histopathology AI for Breast Cancer Detection](https://github.com/drnsmith/Histopathology-AI-BreastCancer)**
   
- _End-to-end ML pipeline predicting customer churn using **XGBoost** and **SHAP** for explainability, deployed via **Streamlit** with an **LLM insights layer** for natural language recommendations._
+  Developed deep learning pipelines for breast cancer image classification using transfer learning, class-balancing strategies, and interpretability methods. This work explores not just model performance, but the practical challenges of medical image analysis in imbalanced settings.
 
- - **[Fast-Track Fake News Detector: Real-Time Misinformation Analysis](https://github.com/drnsmith/AI-Fake-News-Detector)**
-   
-_An AI system combining **LLM** fact-checking, NLP-based bias detection, and **graph-based** misinformation propagation analysis. Scrapes news and social media via APIs, delivering explainable insights in a Gradio UI powered by **GPT-4o and LangChain**._
-
-- **[AI Web Analyser: Credibility & Bias Detection for Online Content](https://github.com/drnsmith/AI-Web-analyser)**
+- **[Air Quality Forecasting (PM10)](https://github.com/drnsmith/Pollution-Prediction-Auckland)**
   
-_Extracts and analyses web articles in real time, using **Transformers** for summarisation, bias scoring, and sentiment detection. Integrates **FastAPI with Gradio** for an interactive tool that empowers users to evaluate media quality and bias on the fly._
+  Built forecasting models for PM10 pollution using regression and neural network approaches, including LSTM-based experiments. Focused on temporal modelling, feature design, and comparing methods for environmentally meaningful prediction.
 
-- **[AI Recipe Assistant: Where Data Science Meets Engineering](https://github.com/drnsmith/AI-Assistant-Recipe)**
+- **[Big Data Sentiment Analysis of NASDAQ Companies](https://github.com/drnsmith/sentiment-analysis-NASDAQ-companies-Tweets)**
   
-_Buil an intelligent recipe assistant that helps users discover, generate, and save recipes. Built with **Streamlit** for a clean, interactive UI, it enables users to search a database of 2M+ recipes, generate AI-powered recipes using **LLMs**, and save favourites for easy access. The backend is powered by **Python**, **SQL**, and **NLP**, ensuring efficient querying and personalised recommendations._
+  Analysed more than 4 million tweets about NASDAQ-listed firms using Hadoop, MapReduce, Hive, and NLP techniques. The project combines large-scale text processing with sentiment analysis to study public opinion in financial contexts.
+
+- **[Customer Churn Prediction & Retention Analytics](https://github.com/drnsmith/ChurnAnalysis)**
   
-- **[Secure Communication Framework: Client-Server System with Python and Cryptography](https://github.com/drnsmith/Client-Server-Network-Socket-Programming)**
+  Built an end-to-end churn modelling pipeline using XGBoost and SHAP, with an interactive analytics layer for interpreting risk drivers and supporting retention decisions. Designed to connect predictive modelling with usable business insight.
+
+- **[Analytics Data Warehouse & ETL Design](https://github.com/drnsmith/warehouse-management-system)**
   
-_Developed a robust client-server application using Python **socket programming**. Features include secure communication through **serialisation, file encryption, and multi-threading**._
-
-- **[Big Data Sentiment Analysis: Hadoop, Hive, and NLP for Sentiment Analysis of NASDAQ Companies](https://github.com/drnsmith/sentiment-analysis-NASDAQ-companies-Tweets)**
-  
-_Leveraged **Hadoop, MapReduce, and sentiment analysis** to process over 4 million tweets about NASDAQ-listed companies, extracting insights into public opinion and sentiment trends._
-
-- **[Machine Learning Predictive Analytics for PM10 Pollution: Using Random Forests, Gradient Boosting, XGBoost, Ridge and Lasso Regressions, and Neural Network Regressor](https://github.com/drnsmith/PM-London-Pollution)**
-  
-_Applied various advanced machine learning techniques to model and predict PM10 air pollution levels in London (United Kingdom), supporting urban policy decisions for cleaner, healthier cities._
-
-- **[SQL to API: Functional APIs with Role-Based Access Control](https://github.com/drnsmith/SQLtoAPI-RBAC)**
-   
-_A backend engineering project that transforms raw SQL queries into secure, production-ready APIs. This system leverages **Node.js, Express.js, and PostgreSQL**, implementing JWT-based **Role-Based Access Control (RBAC)** to ensure granular permissions for different user roles—admin, manager, and general user. It enables efficient access to data with strict control over what users can read, write, or modify. Built with **RESTful** principles, the project demonstrates how to wrap SQL logic in a scalable, maintainable API layer, making it ideal for internal tools, reporting dashboards, or frontend apps that need secure backend data access._
-
-- **[Combinatorial Optimisation with Genetic Algorithms: Solving the 4x4 Puzzle](https://github.com/drnsmith/Solving-a-4x4-Letter-Placement-Puzzle-Using-Genetic-Algorithms)**
-    
-_Demonstrated the application of evolutionary principles, including mutation, crossover, and selection, to optimise a challenging combinatorial puzzle._
-
-- **[AI-Driven Pneumonia Detection Using CNNs and VGG16](https://github.com/drnsmith/pneumonia-detection-CNN)**
-  
-_Built a deep learning pipeline to detect pneumonia from chest X-rays. The project compares a custom CNN with a pre-trained VGG16 model for binary classification._
-
-- **[AI-Powered Recipe Difficulty Classification with NLP and ML](https://github.com/drnsmith/AI-Recipe-Classifier)**
-  
-_Built and trained an innovative AI classifier to categorise recipes into difficulty levels by analysing ingredients and preparation steps using machine learning and NLP._
-
-- **[Scalable Data Warehouse Design with Snowflake and Oracle](https://github.com/drnsmith/warehouse-management-system)**
-   
-_Designed a scalable data warehouse for a leading office supply company, featuring a Snowflake schema, ETL processes, and Oracle Database implementation for analytics._
-
-- **[NLP-Driven Recipe Clustering: Topic Modelling with BERT and LDA](https://github.com/drnsmith/RecipeNLG-Topic-Modelling-and-Clustering)**
-    
-_Used advanced NLP techniques (BERT embeddings and LDA topic modelling) to cluster and semantically analyse recipes, uncovering trends in culinary narratives._
-
-- **[Colour Normalisation in Deep Learning: Enhancing Histopathology Image Classification](https://github.com/drnsmith/ColourNorm-Histopathology-DeepLearning)**
-   
-_Explored the role of colour normalisation techniques in improving deep learning models for cancer detection from histopathology images._
-
-- **[Custom CNNs for Histopathology Tumour Classification](https://github.com/drnsmith/Custom-CNNs-Histopathology-Classification)**
-  
-_Built custom CNNs for histopathology classification using the BreakHis dataset, incorporating advanced techniques like dropout, transfer learning, and batch normalisation._
-
-- **[Building, Training and Deploying Dense Neural Network for Classifying Images](https://github.com/drnsmith/Designing-Dense-NNs-Using-MNIST)**
-  
-_Implemented a **dense neural network (DNN)** for classifying images in the Fashion MNIST dataset with the goal to explore DNN architecture design, activation functions, and regularisation techniques such as dropout, achieving accurate classification of clothing items._
-
-- **[AI-Powered Air Quality Prediction with Regression Models and Advanced Machine Learning Techniques (LSTM)](https://github.com/drnsmith/Pollution-Prediction-Auckland)**
-   
-_Harnessed AI to model and predict PM10 pollution trends in Auckland (New Zealand) using advanced regression models and **LSTM networks** to aid environmental policy decisions._
-
-- **[Histopathology AI: Breast Cancer Detection with ResNet, DenseNet, and EfficientNet](https://github.com/drnsmith/Histopathology-AI-BreastCancer)**
-  
-_Tackled class imbalance and model interpretability challenges in breast cancer diagnosis using cutting-edge architectures like ResNet, DenseNet, and EfficientNet._
+  Designed a structured analytics warehouse with ETL workflows and dimensional modelling principles to support reporting and downstream analysis. This project reflects the data engineering side of data science: clean inputs, reliable structure, and usable outputs.
 
 ###
 
 <h2 align="left">📝 How I Think & Where I Write</h2>
 
-I write about data, uncertainty, AI, human decision-making, and the psychology of systems.  
-New connections are always welcome — I also publish a newsletter on LinkedIn.
+<h2 align="left">📝 How I Think & Where I Write</h2>
+
+I write about systems under strain: data systems, decision systems, biological systems, and the human tendency to misunderstand all three.
+
+My work sits somewhere between data science, AI, uncertainty, physiology, and philosophy of modern life. The themes vary, but the underlying interest is constant: **complex systems, failure modes, and the gap between reality and the stories we tell about it**.
+
+I publish on Medium, Substack and LinkedIn. 
+New connections are always welcome!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/drnsmith">
